@@ -1,3 +1,3 @@
 # My-portfolio
-I have created a website to display my portfolio of skills and projects.
+To showcase my skills and projects, I have developed a website that is fully responsive.
 
